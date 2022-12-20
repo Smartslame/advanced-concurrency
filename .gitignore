@@ -1,0 +1,16 @@
+*.iml
+*.ipr
+*.iws
+*.releaseBackup
+*.txt
+*.zip
+
+.idea/*
+!.idea/runConfigurations/
+
+*.class
+*/generated-src/
+*/target/
+target/
+generated-src/
+project.build.directory_IS_UNDEFINED/
